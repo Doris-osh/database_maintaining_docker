@@ -1,0 +1,6 @@
+/usr/local/lib/python3.8/dist-packages/akshare/__init__.py:2680: UserWarning: 为了支持更多特性，请将 Python 升级到 3.9.0 及以上版本！
+  warnings.warn(
+ * Serving Flask app 'test2'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.

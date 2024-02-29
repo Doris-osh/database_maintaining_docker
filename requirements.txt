@@ -1,0 +1,8 @@
+flask
+numpy
+pandas
+akshare==1.12.18
+mysql.connector
+sqlalchemy
+datetime
+chinese_calendar

@@ -1,0 +1,12 @@
+#gevent
+#gunicorn
+flask
+numpy
+pandas
+akshare==1.12.17
+#akqmt
+#datacenter
+mysql.connector
+sqlalchemy
+datetime
+chinese_calendar
